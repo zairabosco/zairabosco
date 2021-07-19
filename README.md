@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Health Data projects
 - 📫 How to reach me:
   - 🐦 [Twitter](https://twitter.com/zabosco)
-  - 👩🏻‍💻 [About.me page](https://about.me./zairabosco)
+  - 👩🏻‍💻 [About.me](https://about.me/zairabosco)
 
 <!---
 zairabosco/zairabosco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
